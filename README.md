@@ -19,4 +19,18 @@ A glance to the app's home page, where it display the user's personal details su
 ### Sharing Tab in Home Page
 ![Sharing tab in home page screenshot of PTTEP LinkMe app](https://github.com/user-attachments/assets/d735bcb3-45bf-49b9-93fe-3f0d849cfc36)
 
+## Link to app
+### Google Play
+[PTTEP LinkMe in Google Play Store](https://play.google.com/store/apps/details?id=com.leafycard.ptteplinkmeapp&hl=en)
+<img width="1765" height="583" alt="PTTEP LinkMe app in Google Play Store" src="https://github.com/user-attachments/assets/1cb93ccd-cd83-49a3-b801-b72e2997f1a6" />
+
+### Huawei AppGallery
+[PTTEP LinkMe in Huawei AppGallery](https://appgallery.huawei.com/#/app/C112591085)
+<img width="888" height="298" alt="PTTEP LinkMe app in Huawei AppGallery" src="https://github.com/user-attachments/assets/5d731ce5-160d-4866-b36e-f7e54122a77b" />
+
+### Apple App Store
+Due to Apple App Store's app publishing policy mainly about the target audiences, where this app is mainly for PTTEP employees' usage, it is published as an unlisted app, meaning the app is not publicly accessible and a link is required in order to install the app.
+
+
+
 
